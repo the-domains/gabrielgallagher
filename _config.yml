@@ -1,0 +1,28 @@
+name: GabrielGallagher
+favicon: null
+layout_spectrum: 0.8364004369359463
+typography_spectrum: 0.3927016432862729
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6146292521152645
+  lightness: 0.7791762698907405
+  saturation: 0.690812504151836
+  rhythmicContrast: 0.5395261419471353
+purpose: []
